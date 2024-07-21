@@ -1,3 +1,5 @@
+> 프로그래머스 웹 풀스택 데브코스 2기
+
 ### Front-end (React)
 | <img src="https://avatars.githubusercontent.com/u/79312827?v=4" width=80px alt=“고세종/>  | <img src="https://avatars.githubusercontent.com/u/121474189?v=4" width=80px alt=“류지민/>  |  <img src="https://avatars.githubusercontent.com/u/66045537?v=4" width=80px alt=“최주희”/>  | 
 | :-----: | :-----: | :-----: |
